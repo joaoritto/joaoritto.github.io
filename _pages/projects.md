@@ -25,7 +25,7 @@ profits, labor productivity and the labor share are qualitatively in accordance 
 found in vector autoregressions – something the New Keynesian model struggles to deliver.
 
 
-[<b>Informality, Consumption and the Welfare Costs of Inflation</b>](/projects/2_project/)
+[<b>Informality, Consumption and the Welfare Costs of Inflation</b>](/projects/2_project/) (with Daniel Jaar)
 
 <b>Abstract</b>: Developing economies have large informal sectors made up of small firms that avoid taxation
 and rely predominantly on cash. The degree of formality of a household's consumption basket
@@ -36,7 +36,7 @@ ation in economies with large informal sectors.
 
 <h1> Publications </h1>
 
-[<b>The neutrality of nominal rates: How long is the long run?</b>](/projects/3_project/)
+[<b>The neutrality of nominal rates: How long is the long run?</b>](/projects/3_project/) (with Valle e Azevedo and Teles)
 
 <i>International Economic Review, November 2022, Volume 63, Issue 4, pages 1745-1777</i>
 

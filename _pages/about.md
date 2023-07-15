@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: University of Pennsylvania. <a href='#'>Contacts</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p></p>
-    <p>133 S 36th St</p>
-    <p>Philadelphia, Pennsylvania 12345</p>
+  address: 
+    <p>133 S 36th St,</p>
+    <p>Philadelphia, Pennsylvania</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

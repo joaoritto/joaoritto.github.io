@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: "The neutrality of nominal rates: how long is the long run?"
+description: 
+img: 
 importance: 3
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.

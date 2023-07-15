@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-<h1> Working Papers </h1>
+<h3> Working Papers </h3>
 
 [<b>Doing Without Nominal Rigidities: Steering Employment and Inflation in a Monetary World</b>](/projects/1_project/)
 
@@ -34,7 +34,7 @@ a formality decision by firms and consumption bundle decision by households that
 rationalizes these facts and use it to evaluate the heterogeneous welfare costs of in
 ation in economies with large informal sectors.
 
-<h1> Publications </h1>
+<h3> Publications </h3>
 
 [<b>The neutrality of nominal rates: How long is the long run?</b>](/projects/3_project/) (with Valle e Azevedo and Teles)
 

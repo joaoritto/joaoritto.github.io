@@ -19,9 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Economics PhD candidate at the University of Pennsylvania. My research interests are in macroeconomics with a particular focus on monetary policy, the labor market and heterogeneity.
+I am an Economics PhD candidate at the University of Pennsylvania. My research interests are in macroeconomics with a particular focus on monetary policy and the labor market.
 
-Testing a change
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

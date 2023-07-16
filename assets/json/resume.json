@@ -1,74 +1,87 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "João Ritto",
+    "label": "Economist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "jritto@sas.upenn.edu"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Pennsylvania",
+      "url": "https://www.upenn.edu/",
+      "area": "Economics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2018",
+      "endDate": "2024",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Nova School of Business and Economics",
+      "url": "https://www.https://www.novasbe.unl.pt/en/",
+      "area": "Economics",
+      "studyType": "Masters",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Maastricht University",
+      "url": "https://www.maastrichtuniversity.nl/",
+      "area": "Economics",
+      "studyType": "Masters",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Nova School of Business and Economics",
+      "url": "https://www.https://www.novasbe.unl.pt/en/",
+      "area": "Economics",
+      "studyType": "Undergraduate",
+      "startDate": "2010",
+      "endDate": "2013",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Consultaccount Award",
+      "date": "2023",
+      "awarder": "Portuguese Economic Journal",
+      "summary": "Prize attributed to the best paper presented by a PhD student at the 16th Annual Meeting of the Portuguese Economic Journal"
+    } ,
+    {
+      "title": "Lawrence Robbins Prize",
+      "date": "2019",
+      "awarder": "University of Pennsylvania",
+      "summary": "Prize attributed to the student with the best academic performance in the 1st year of the Economics PhD at the University of Pennsylvania"
+    }       
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
-  "languages": [
+  "skills": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "name": "Julia"
     },
+    {
+      "name": "Matlab"
+    },
+    {
+      "name": "Stata"
+    }
+  ],
+  "languages": [
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native"
     }
   ],
   "interests": [],

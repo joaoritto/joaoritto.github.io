@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Ph.D. candidate in Economics at the University of Pennsylvania. My research interests are in Macroeconomics with a particular focus on monetary policy and inequality.
+I am a Ph.D. candidate in Economics at the University of Pennsylvania. My research interests are in Macroeconomics with a particular focus on monetary policy and inequality.
 
 

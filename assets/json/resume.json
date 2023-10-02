@@ -10,7 +10,7 @@
       "institution": "University of Pennsylvania",
       "url": "https://www.upenn.edu/",
       "area": "Economics",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2018",
       "endDate": "2024",
       "score": "",
@@ -20,7 +20,7 @@
       "institution": "Nova School of Business and Economics",
       "url": "https://www.https://www.novasbe.unl.pt/en/",
       "area": "Economics",
-      "studyType": "Masters",
+      "studyType": "M.A.",
       "startDate": "2013",
       "endDate": "2015",
       "score": "",
@@ -30,7 +30,7 @@
       "institution": "Maastricht University",
       "url": "https://www.maastrichtuniversity.nl/",
       "area": "Economics",
-      "studyType": "Masters",
+      "studyType": "M.A.",
       "startDate": "2013",
       "endDate": "2015",
       "score": "",
@@ -40,7 +40,7 @@
       "institution": "Nova School of Business and Economics",
       "url": "https://www.https://www.novasbe.unl.pt/en/",
       "area": "Economics",
-      "studyType": "Undergraduate",
+      "studyType": "B.A.",
       "startDate": "2010",
       "endDate": "2013",
       "score": "",
@@ -72,6 +72,9 @@
     },
     {
       "name": "Stata"
+    },
+    {
+      "name": "R"
     }
   ],
   "languages": [

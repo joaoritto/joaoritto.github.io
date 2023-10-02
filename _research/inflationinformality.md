@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Informality, Consumption and the Welfare Costs of Inflation"
+title: "Informality, Inflation, and Fiscal Progressivity in Developing Countries"
 description: 
 img: 
 importance: 2

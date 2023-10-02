@@ -170,10 +170,10 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: 
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: 
 
 announcements:
   enabled: true
@@ -278,7 +278,7 @@ scholar:
   style: apa
   locale: en
 
-  source: /_bibliography/
+  source: 
   bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter

@@ -11,7 +11,7 @@ horizontal: false
 
 <h3> Working Papers </h3>
 
-<b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b>
+<b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b> (Job Market Paper)
 
 <b>Abstract</b>: I develop a model of money as a medium of exchange based on search frictions tailored to
 the quantitative study of the short-term effects of monetary policy. Following a decrease in

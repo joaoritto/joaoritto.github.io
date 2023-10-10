@@ -39,11 +39,10 @@ macroeconomic evidence on the real effects of monetary policy.
 <b>Informality, Inflation, and Fiscal Progressivity in Developing Countries</b> (with Daniel Jaar)
 
 <b>Abstract</b>: Developing economies have large informal sectors made up of small firms that avoid taxation
-and rely predominantly on cash. The degree of formality of a household's consumption basket
-varies widely across the income distribution. We develop a general equilibrium model with
+and rely predominantly on cash. In addition, poorer households purchase a larger proportion of their consumption bundle from informal firms. We develop a general equilibrium model with
 a formality decision by firms and consumption bundle decision by households that jointly
-rationalizes these facts and use it to evaluate the public finance decision of a Sovereign and its implications for fiscal progressivity.
+rationalizes these facts and calibrate it to evaluate the implications of different revenue-equivalent choices of consumption taxes and inflation for aggregate output, the size of the informal sector, and fiscal progressivity.
 
-<b>Monetary Policy Persistence in a Heterogeneous-Agent Search and Inventory-Theoretic Model of Money</b>
+<b>Monetary Policy in a Heterogeneous-Agent Search and Inventory-Theoretic Model of Money</b>
 
 

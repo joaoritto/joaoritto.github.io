@@ -43,6 +43,6 @@ and rely predominantly on cash. In addition, poorer households purchase a larger
 a formality decision by firms and consumption bundle decision by households that jointly
 rationalizes these facts and calibrate it to evaluate the implications of different revenue-equivalent choices of consumption taxes and inflation for aggregate output, the size of the informal sector, and fiscal progressivity.
 
-<b>Monetary Policy in a Heterogeneous-Agent Search and Inventory-Theoretic Model of Money</b>
+<b>The Heterogeneous Effects of Monetary Policy: Profits vs Employment</b>
 
 

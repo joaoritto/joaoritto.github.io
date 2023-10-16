@@ -13,17 +13,7 @@ horizontal: false
 
 <b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b> (Job Market Paper)
 
-<b>Abstract</b>: I develop a model of money as a medium of exchange based on search frictions tailored to
-the quantitative study of the short-term effects of monetary policy. Following a decrease in
-the nominal interest rate, money velocity decreases while firm capacity utilization increases,
-resulting in positive effects on output and employment. I estimate the model to match the
-impulse response functions of monetary policy shocks found in a vector autoregression and
-compare it to a medium-scale New Keynesian model. Both models can deliver large and persistent real effects of monetary policy. Excluding inflation, the search-based model achieves a
-better statistical fit, particularly because it can match the behavior of labor productivity, labor
-share, and money velocity better than the New Keynesian model. However, it underperforms
-for inflation. These findings suggest that liquidity-based effects of monetary policy constitute
-a candidate solution to make the microeconomic evidence on price changes consistent with the
-macroeconomic evidence on the real effects of monetary policy.
+<b>Abstract</b>: I develop a quantitative model of money as a medium of exchange, built on search frictions in the product and labor markets, which provides an alternative theory for the real effects of monetary policy. Due to matching uncertainty, firms operate below full capacity, and households carry money that ends up unused. A reduction in the nominal interest rate decreases the opportunity cost of holding money, pushing up households’ money demand. The increased liquidity carried by households results in a decrease in money velocity but an increase in capacity utilization, as it becomes easier for firms to match households with money to purchase their goods. This delivers an increase in output and employment. I estimate the model to match the impulse response functions to a stimulative monetary policy shock in a vector autoregression and compare it to a model of nominal rigidities. The search-based model's response to the shock displays positive, persistent effects on consumption, investment, and employment. As in the data, the labor share is countercyclical, something the New Keynesian model is unable to deliver.
 
 
 <h3> Publications </h3>

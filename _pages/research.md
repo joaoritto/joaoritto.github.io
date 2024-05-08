@@ -28,11 +28,7 @@ horizontal: false
 
 <b>Informality, Inflation, and Fiscal Progressivity in Developing Countries</b> (with Daniel Jaar)
 
-<b>Abstract</b>: Developing economies have large informal sectors made up of small firms that avoid taxation
-and rely predominantly on cash. In addition, poorer households purchase a larger proportion of their consumption bundle from informal firms. We develop a general equilibrium model with
-a formality decision by firms and consumption bundle decision by households that jointly
-rationalizes these facts and calibrate it to evaluate the implications of different revenue-equivalent choices of consumption taxes and inflation for aggregate output, the size of the informal sector, and fiscal progressivity.
+<b>Abstract</b>: Developing economies have large informal sectors made up of small firms that avoid taxation and rely predominantly on cash. Poorer households purchase a larger proportion of their consumption bundle from informal firms. We develop a general equilibrium model with a formality decision by firms and consumption bundle decision by households that matches these facts and calibrate it to evaluate the implications of different revenue-equivalent choices of consumption taxes and inflation for aggregate output, the size of the informal sector, and fiscal progressivity.
 
-<b>The Heterogeneous Effects of Monetary Policy: Profits vs Employment</b>
 
 

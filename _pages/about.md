@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
-    <p>133 S 36th St,</p>
-    <p>Philadelphia, Pennsylvania</p>
+    <p>150 St. George Street, office 204</p>
+    <p>Toronto, Ontario M5S 3G7, Canada</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

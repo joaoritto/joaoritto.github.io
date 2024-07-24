@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p> University of Pennsylvania </p> <p> Contact&#58 jritto@sas.upenn.edu  </p>
+subtitle: <p> University of Toronto </p> <p> Contact&#58 j.ritto@utoronto.ca  </p>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a Ph.D. candidate in Economics at the University of Pennsylvania. Next academic year I will be joining the University of Toronto as an Assistant Professor.
+Welcome! I am an Assistant Professor at the University of Toronto. 
 
 I am a quantitative macroeconomist interested in monetary economics, consumption and wealth inequality.
 

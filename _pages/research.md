@@ -11,7 +11,7 @@ horizontal: false
 
 <h3> Working Papers </h3>
 
-<b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b> (Job Market Paper) <a href="[https://www.dropbox.com/scl/fo/0cvpq5gk28prjomjs8a9o/h?rlkey=piny2hux9dqomnrkya0ivdapm&dl=0](https://www.dropbox.com/scl/fi/wkdz74lojou1c4xrgljle/Draft_JMP.pdf?rlkey=zxev3hml3ayimled5213s8z4r&st=lnjlw2sr&dl=0)">pdf</a>
+<b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b> (Job Market Paper) <a href="https://www.dropbox.com/scl/fo/0cvpq5gk28prjomjs8a9o/h?rlkey=piny2hux9dqomnrkya0ivdapm&dl=0">pdf</a>
 
 <b>Abstract</b>: I develop a quantitative model of money as a medium of exchange, built on search frictions in the product and labor markets, which provides an alternative theory for the real effects of monetary policy. Due to matching uncertainty, firms operate below full capacity, and households carry money that ends up unused. A reduction in the nominal interest rate decreases the opportunity cost of holding money, pushing up households’ money demand. The increased liquidity carried by households results in a decrease in money velocity but an increase in capacity utilization, as it becomes easier for firms to match households with money to purchase their goods. This delivers an increase in output and employment. I estimate the model to match the impulse response functions to a stimulative monetary policy shock in a vector autoregression and compare it to a model of nominal rigidities. The search-based model's response to the shock displays positive, persistent effects on consumption, investment, and employment. As in the data, the labor share is countercyclical, something the New Keynesian model is unable to deliver.
 

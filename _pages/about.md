@@ -18,8 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am an Assistant Professor at the University of Toronto. 
-
 I am a quantitative macroeconomist interested in monetary economics, consumption and wealth inequality.
 
+I am an Assistant Professor at the University of Toronto. 
 

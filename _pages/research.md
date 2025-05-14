@@ -23,7 +23,7 @@ as an alternative revenue source. Informality also has distributional consequenc
 
 <h3> Publications </h3>
 
-<b>The neutrality of nominal rates: How long is the long run?</b> (with Valle e Azevedo and Teles)
+<b>The neutrality of nominal rates: How long is the long run?</b> (with Valle e Azevedo and Teles) <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12584">link</a>
 
 <i>International Economic Review, November 2022, Volume 63, Issue 4, pages 1745-1777</i>
 

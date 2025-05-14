@@ -17,7 +17,8 @@ horizontal: false
 
 <b>Informality, Inflation, and Fiscal Progressivity in Developing Countries</b> (with Daniel Jaar)
 
-<b>Abstract</b>: Developing economies have large informal sectors made up of small firms that avoid taxation and rely predominantly on cash. Poorer households purchase a larger proportion of their consumption bundle from informal firms. We develop a general equilibrium model with a formality decision by firms and consumption bundle decision by households that matches these facts and calibrate it to evaluate the implications of different revenue-equivalent choices of consumption taxes and inflation for aggregate output, the size of the informal sector, and fiscal progressivity.
+<b>Abstract</b>: The informal sector in developing economies has substantial implications for public finance. Its scale limits the effectiveness of standard tax instruments, often justifying the use of inflation
+as an alternative revenue source. Informality also has distributional consequences: informal businesses tend to be small, rely heavily on cash, and supply a larger share of goods to poorer households. In this paper, we present a general equilibrium model where firms decide on formality status, and households choose their consumption bundles, allowing us to examine these distributional aspects of informality. We use the model to study the trade-offs between different revenue-equivalent combinations of inflation and consumption taxes. We calibrate the model for Peru and find a notable disparity in effective tax rates across wealth levels under a benchmark 4% inflation rate and an 18% consumption tax: the bottom income quintile pays an effective tax rate equivalent to just 55% of that of the top quintile. Reducing inflation from 4% to 0% requires raising consumption taxes by 2.2 percentage points. This shift benefits the poorest 90.7% of households at the expense of the wealthiest 9.3%. This would increase the welfare of the bottom quintile by 0.25% in consumption-equivalent units, whereas the top quintile experiences a 0.01% decrease.
 
 
 <h3> Publications </h3>
@@ -31,7 +32,6 @@ horizontal: false
 <h3> Work in Progress </h3>
 
 Real Monetary Policy (with Rios Rull, Takamura, and Terajima)
-
 
 
 

@@ -17,8 +17,20 @@ horizontal: false
 
 <b>Informality, Inflation, and Fiscal Progressivity in Developing Countries</b> (with Daniel Jaar) <a href="https://www.dropbox.com/scl/fi/a5j651acn5gcomzbdj364/INF2-Jaar-Ritto.pdf?rlkey=ncootbtf773kaqe227ocoq8eu&st=1poq8rsv&dl=0">draft</a>
 
-<b>Abstract</b>: The informal sector in developing economies has substantial implications for public finance. Its scale limits the effectiveness of standard tax instruments, often justifying the use of inflation
-as an alternative revenue source. Informality also has distributional consequences: informal businesses tend to be small, rely heavily on cash, and supply a larger share of goods to poorer households. In this paper, we present a general equilibrium model where firms decide on formality status, and households choose their consumption bundles, allowing us to examine these distributional aspects of informality. We use the model to study the trade-offs between different revenue-equivalent combinations of inflation and consumption taxes. We calibrate the model for Peru and find a notable disparity in effective tax rates across wealth levels under a benchmark 4% inflation rate and an 18% consumption tax: the bottom income quintile pays an effective tax rate equivalent to just 55% of that of the top quintile. Reducing inflation from 4% to 0% requires raising consumption taxes by 2.2 percentage points. This shift benefits the poorest 90.7% of households at the expense of the wealthiest 9.3%. This would increase the welfare of the bottom quintile by 0.25% in consumption-equivalent units, whereas the top quintile experiences a 0.01% decrease.
+<b>Abstract</b>: We develop a dynamic general equilibrium model with heterogeneous households and a
+cash-intensive informal sector that replicates two empirical patterns: the negative relationship
+between informality and firm productivity, and the declining share of informal consumption
+with household wealth. The non-homotheticity of informal consumption implies that tax
+incidence is heterogenous: poor households pay less consumption taxes but are more exposed
+to inflation. We use the model to study the distributional effects of financing government
+revenue through seigniorage versus consumption taxes. Calibrated to Peru – where informality
+accounts for around half of economic activity – the model shows that informal purchases
+provide significant savings through lower prices, particularly for poor households, who save up
+to 11% compared to purchasing the same bundle formally. The model also uncovers substantial
+variation in preferences over revenue-neutral combinations of inflation and consumption taxes:
+households in the top expenditure decile would like inflation to be as high as 12%, while those
+in the bottom favor inflation below 5%. This disagreement grows with the size of the informal
+sector.
 
 
 <h3> Publications </h3>

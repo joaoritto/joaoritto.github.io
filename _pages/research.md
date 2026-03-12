@@ -32,6 +32,7 @@ horizontal: false
 
 Real Monetary Policy (with Rios Rull, Takamura, and Terajima)
 
+How Does a Dominant Currency Replace Another? Evidence from European Trade (with Mehl, Mlikota, and Van Robays)
 
 
 

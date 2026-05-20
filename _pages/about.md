@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a quantitative macroeconomist interested in monetary economics, consumption and wealth inequality.
+I am a quantitative macroeconomist researching monetary economics and the business cycle.
 
 I am an Assistant Professor at the University of Toronto. 
 

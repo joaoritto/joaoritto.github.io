@@ -30,7 +30,7 @@ horizontal: false
 
 <h3> Work in Progress </h3>
 
-Real Monetary Policy (with Rios Rull, Takamura, and Terajima)
+Real Monetary Policy (with Rios Rull, Takamura, and Terajima) <a href=https://www.dropbox.com/scl/fi/vmf8jypiq4knub5pa4dl5/jr_cea2026.pdf?rlkey=wmkwadspl6q9a08vlphupoei8&st=0osylcpf&dl=0> </a>
 
 How Does a Dominant Currency Replace Another? Evidence from European Trade (with Mehl, Mlikota, and Van Robays)
 

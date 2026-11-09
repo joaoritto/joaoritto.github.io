@@ -11,14 +11,32 @@ horizontal: false
 
 <h3> Working Papers </h3>
 
-<b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b> <a href="https://www.dropbox.com/scl/fi/wkdz74lojou1c4xrgljle/Draft_JMP.pdf?rlkey=zxev3hml3ayimled5213s8z4r&st=lnjlw2sr&dl=0">draft</a>
+<b>Attention and the Inflation Bias</b> (with Jose Victor Rios Rull) <a href="https://www.dropbox.com/scl/fi/a5j651acn5gcomzbdj364/INF2-Jaar-Ritto.pdf?rlkey=ncootbtf773kaqe227ocoq8eu&st=1poq8rsv&dl=0">draft</a>
 
-<b>Abstract</b>: I develop a quantitative model of money as a medium of exchange, built on search frictions in the product and labor markets, which provides an alternative theory for the real effects of monetary policy. Due to matching uncertainty, firms operate below full capacity, and households carry money that ends up unused. A reduction in the nominal interest rate decreases the opportunity cost of holding money, pushing up households’ money demand. The increased liquidity carried by households results in a decrease in money velocity but an increase in capacity utilization, as it becomes easier for firms to match households with money to purchase their goods. This delivers an increase in output and employment. I estimate the model to match the impulse response functions to a stimulative monetary policy shock in a vector autoregression and compare it to a model of nominal rigidities. The search-based model's response to the shock displays positive, persistent effects on consumption, investment, and employment. As in the data, the labor share is countercyclical, something the New Keynesian model is unable to deliver.
+<b>Abstract</b>: A central bank that cannot commit is tempted to inflate. We show that what restrains it is the price
+dispersion its stimulus creates, which wastes labor long after the decision, and that this restraint needs an
+audience: it works only if price setters pay attention to the decision. The two timings used in the New
+Keynesian literature differ precisely in this respect. We nest them in a nonlinear Calvo model in which a
+share of price setters responds to the decision, and read that share as attention. Close to efficiency, attention
+is decisive, and its effect is far from proportional: with distortions that would keep output 1.6% below its
+efficient level at zero inflation, the bank delivers 2% inflation when price setters see its decisions, 3.3% when
+they check policy every month, 7% every two months, and 19% when they never do. Half of the bias is
+gone once a third of the resetting firms respond, so discipline survives partial attention but collapses quickly
+below it. With eight decisions a year, the restraint comes mainly from the bank’s concern for the future, not
+from any attempt to steer its successors, and it weakens when the bank decides more often. A central bank
+without commitment can discipline itself, but only if price setters pay attention to it.
+
+
 
 <b>Informality and the Distributional Effects of Inflation and Consumption Taxes</b> (with Daniel Jaar) <a href="https://www.dropbox.com/scl/fi/a5j651acn5gcomzbdj364/INF2-Jaar-Ritto.pdf?rlkey=ncootbtf773kaqe227ocoq8eu&st=1poq8rsv&dl=0">draft</a>
 
 <b>Abstract</b>: Low-income households in developing countries devote a larger share of spending to informal, cash-intensive goods. As a result, consumption taxes fall more heavily on the rich, whose spending is concentrated in the taxable formal sector, while inflation falls more heavily on the poor, who rely more on cash. To quantitatively evaluate the distributional consequences of both instruments, we develop a heterogeneous-agent model with a cash-intensive informal sector and a rich description of the goods market that yields the aforementioned non-homothetic consumption patterns. Calibrated to Peru -- where informality accounts for around half of economic activity -- the model shows that informal purchases provide significant savings through lower prices, particularly for poor households, who save up to 11% compared to purchasing the same bundle formally. In revenue-neutral reforms that trade off inflation against consumption taxes, we uncover sharp distributional conflict: households in the bottom decile prefer an 18% consumption tax rate with 4% inflation, whereas the top decile prefers a 13% consumption tax rate with 12% inflation. The disagreement grows with the size of the informal sector.
 
+
+
+<b>Doing Without Nominal Rigidities: Real Effects of Monetary Policy in a Monetary World</b> <a href="https://www.dropbox.com/scl/fi/wkdz74lojou1c4xrgljle/Draft_JMP.pdf?rlkey=zxev3hml3ayimled5213s8z4r&st=lnjlw2sr&dl=0">draft</a>
+
+<b>Abstract</b>: I develop a quantitative model of money as a medium of exchange, built on search frictions in the product and labor markets, which provides an alternative theory for the real effects of monetary policy. Due to matching uncertainty, firms operate below full capacity, and households carry money that ends up unused. A reduction in the nominal interest rate decreases the opportunity cost of holding money, pushing up households’ money demand. The increased liquidity carried by households results in a decrease in money velocity but an increase in capacity utilization, as it becomes easier for firms to match households with money to purchase their goods. This delivers an increase in output and employment. I estimate the model to match the impulse response functions to a stimulative monetary policy shock in a vector autoregression and compare it to a model of nominal rigidities. The search-based model's response to the shock displays positive, persistent effects on consumption, investment, and employment. As in the data, the labor share is countercyclical, something the New Keynesian model is unable to deliver.
 
 <h3> Publications </h3>
 

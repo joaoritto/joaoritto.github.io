@@ -11,7 +11,7 @@ horizontal: false
 
 <h3> Working Papers </h3>
 
-<b>Attention and the Inflation Bias</b> (with Jose Victor Rios Rull) <a href="https://www.dropbox.com/scl/fi/a5j651acn5gcomzbdj364/INF2-Jaar-Ritto.pdf?rlkey=ncootbtf773kaqe227ocoq8eu&st=1poq8rsv&dl=0">draft</a>
+<b>Attention and the Inflation Bias</b> (with Jose Victor Rios Rull) <a href="https://www.dropbox.com/scl/fi/06ild54u5xvec30rk9jnk/attentionInflationBias.pdf?rlkey=vmlw7mp5rpjrdxo4eqpzik8a6&st=y3f0iswp&dl=0">draft</a>
 
 <b>Abstract</b>: A central bank that cannot commit is tempted to inflate. We show that what restrains it is the price
 dispersion its stimulus creates, which wastes labor long after the decision, and that this restraint needs an
